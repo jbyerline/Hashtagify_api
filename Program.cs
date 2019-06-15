@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 using System.Collections.Generic;
 using System.IO;
@@ -15,7 +15,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //COUNT THESE KEYWORDS - MAKE SURE ASIAN IS IN POST!!!!!
+            //COUNT THESE KEYWORDS 
             //anxiety, asian, asian american, mental health, suicide, depression, depressed, mental illness, killmyself, sentiment (pos,neg, or neutral), 300 posts
             int limit = 5;  //change for each search limit
             string requestid = "303afe78c7b49dfbaaf04518016908ce";
